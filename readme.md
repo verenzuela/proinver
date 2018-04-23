@@ -18,8 +18,8 @@
 |:---------------------------------------------------------------------------------------------------------------------------------|
 | 1 Clone or download the project into web server HTML path.                                                                       |
 | 			` git clone git@github.com:verenzuela/proinver.git`                                                                    |
-| 2 Go to root project an execute `composer install`;                                                                              |
-| 3 Go to `/public` folder and run bower install command `bower install`;                                                          |
+| 2 Go to root path project an execute `composer install`;                                                                         |
+| 3 Go to path `/public` and run bower install command `bower install`;                                                          |
 
 
 
